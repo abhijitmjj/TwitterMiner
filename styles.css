@@ -13,8 +13,8 @@ p {
 .ImageClass {
     background-color: bisque;
     padding: 20px;
-    width: fit-content;
-    height: fit-content;
+    width: auto;
+    height: auto;
     image-rendering: optimizeQuality;
     margin: 20px;
 }

@@ -67,7 +67,7 @@ python-dateutil==2.8.1
 pytz==2020.1
 pywin32==227
 pywinpty==0.5.7
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.2
 qtconsole @ file:///home/conda/feedstock_root/build_artifacts/qtconsole_1597691775247/work
 QtPy==1.9.0

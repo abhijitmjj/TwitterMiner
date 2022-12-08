@@ -6,7 +6,7 @@ backports.functools-lru-cache==1.6.1
 beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1597679909012/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 brotlipy==0.7.0
-certifi==2020.6.20
+certifi==2022.12.7
 cffi @ file:///D:/bld/cffi_1595805794566/work
 chardet==3.0.4
 colorama==0.4.3

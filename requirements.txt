@@ -81,7 +81,7 @@ soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_15976805
 terminado==0.8.3
 testpath==0.4.4
 toml==0.10.1
-tornado==6.0.4
+tornado==6.5.1
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1596476591553/work
 traitlets==4.3.3
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work

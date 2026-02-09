@@ -1,4 +1,4 @@
-﻿argon2-cffi @ file:///D:/bld/argon2-cffi_1596630042503/work
+argon2-cffi @ file:///D:/bld/argon2-cffi_1596630042503/work
 astroid==2.4.2
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1597959372343/work
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
@@ -39,7 +39,7 @@ mccabe==0.6.1
 menuinst==1.4.16
 mistune==2.0.3
 mkl-service==2.3.0
-nbconvert==6.5.1
+nbconvert==7.17.0
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
 notebook @ file:///D:/bld/notebook_1597285396648/work
 numpy @ file:///D:/bld/numpy_1595523081734/work

@@ -1,4 +1,4 @@
-﻿argon2-cffi @ file:///D:/bld/argon2-cffi_1596630042503/work
+argon2-cffi @ file:///D:/bld/argon2-cffi_1596630042503/work
 astroid==2.4.2
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1597959372343/work
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
@@ -56,7 +56,7 @@ pycosat==0.6.3
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 Pygments==2.7.4
 pylint==2.5.3
-pyOpenSSL==19.1.0
+pyOpenSSL==26.0.0
 pyparsing==2.4.7
 PyQt5==5.12.3
 PyQt5-sip==4.19.18

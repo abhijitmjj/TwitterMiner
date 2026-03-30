@@ -54,7 +54,7 @@ prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolki
 psutil @ file:///D:/bld/psutil_1594827164091/work
 pycosat==0.6.3
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
-Pygments==2.15.0
+Pygments==2.20.0
 pylint==2.5.3
 pyOpenSSL==26.0.0
 pyparsing==2.4.7
